@@ -1,5 +1,5 @@
 **Name:**<br>
-GameNarc for CougHacks 2024
+GameNarc for CougHacks 2024 [3rd place winner]
 
 **Version:**<br>
 1.0.0
