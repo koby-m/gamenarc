@@ -1,0 +1,1 @@
+taskkill /im CougHacksHackathon.exe /f /t

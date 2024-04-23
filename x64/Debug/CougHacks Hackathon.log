@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\bogge\Documents\Code\C\CougHacks Hackathon\main.cpp(83,57): warning C4244: 'argument': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
