@@ -20,6 +20,7 @@ Lamin Sanneh<br>
 April 6th, 2024
 
 **Description:**<br>
+Made for a 24-hour coding competition hosted at WSU Everett, and won 3rd place overall!<br>
 Designed to run in the background on your computer to detect when a Steam game is found running, then it will record how long it was opened, and email the results to a given email.
 
 **Changelog:**<br>
